@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_item_your_location">Your Location</string>
+    <string name="nav_item_search">Search</string>
+
+    <!-- Search -->
+    <string name="search_label">Search for a city (US Only)</string>
+    <string name="search_result_city_us">%1$s, US</string>
+    <string name="search_result_no_city_found">No city found.</string>
+    <string name="search_result_label_location_id">LocationID: %1$s</string>
+    <string name="search_result_label_coord">Coordinates:\n %1$s</string>
+    <string name="search_result_label_temp">Temp: %1$s</string>
+    <string name="search_result_label_min_temp">Min Temp: %1$s</string>
+    <string name="search_result_label_max_temp">Max Temp: %1$s</string>
+    <string name="search_result_label_feels_like">Feels Like: %1$s</string>
+    <string name="search_result_label_pressure">Pressure: %1$s</string>
+    <string name="search_result_label_humidity">Humidity: %1$s</string>
+    <string name="search_result_label_weather">Weather</string>
+
+    <!-- -->
+    <string name="error_occurred">An error occurred.\nPlease check your internet connection and try again.</string>
+</resources>
