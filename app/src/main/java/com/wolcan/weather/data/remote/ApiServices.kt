@@ -5,7 +5,8 @@ import retrofit2.http.GET
 import retrofit2.http.Query
 
 const val BASE_URL = "https://api.openweathermap.org/data/2.5/"
-const val API_KEY = "c8309ef039d5af34af8f9873e0191304"
+// TODO: ADD your own API_KEY here
+const val API_KEY = "xxxxxxx"
 
 interface ApiServices {
     @GET("weather")
